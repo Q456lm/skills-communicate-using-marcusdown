@@ -5,3 +5,7 @@
 ``` javascript
 var mcDonalds = "It's fingering licking good.";
 ```
+
+- [ ] Beat every vidoe game
+- [x] Beat one video game
+- [ ] Kill Marcus
